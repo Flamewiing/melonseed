@@ -1,0 +1,2 @@
+# melonseed
+Some years ago I started on a little game with flutter. My coding knowledge came from YouTube videos and miserable attempts to code something by my own. But the idea for the game stills stuck with me to this day. The concept is to have a bar at the bottom, about 1/5 of the screen and some melon seeds falling from the top and you have to grab them. The concept is very simple but I just want it so exist and spread some joy. Feel free to spread your ideas with me.
